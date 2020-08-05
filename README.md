@@ -7,4 +7,4 @@ Projeto que visava o estudo do melhor plugin de mapas para implementação no fl
 
 O plugin do mapa foi implementado, assim como a possibilidade do mapa possuir marcadores, e também capturar os movimentos do usuario no mapa através da captura das bordas do mesmo.
 
-📎Plugin: https://pub.dev/packages/google_maps_flutter
+📎Plugin [Google Maps](https://pub.dev/packages/google_maps_flutter)
